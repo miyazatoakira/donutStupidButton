@@ -1,0 +1,25 @@
+.App {
+    background-color: #000000; /* Full dark background */
+    height: 100vh; /* Full viewport height */
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.donut-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    position: absolute;
+    right: 38.6%;
+    top: 68%;
+}
+
+.donut-button:hover {
+    background-color: #333333;
+}
